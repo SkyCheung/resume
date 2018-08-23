@@ -54,7 +54,27 @@
 - 职位：程序开发员
 - 职责：主要采用Apache+Mysql+Php开发B/S架构的应用系统（OA，ERP二次开发）
 
-## 项目经验
+## 主要项目经验
+
+#### Yahoo自动投标及支付系统
+
+- 项目介绍
+    - Yahoo自动投标及支付系统，为HOYOYO代购的子系统，主要针对Yahoo代标、代购与及后续的支付过程实现自动化处理。
+- 运行环境
+    - ubuntu+python2.7+ selenium2   
+- 项目职责
+    - 全项目编码实现。
+
+#### Maybank/HangSeng银行流水帐核算系统
+
+- 项目介绍
+    - Maybank/HangSeng银行流水帐核算系统，为HOYOYO代购的子系统，由于海外在线支付环境不够完善，有相当部分客人
+      是通过ATM或柜台转帐到公司收款帐号，通过模拟人工操作，登入银行系统对交易流水记录数据分析提取，并通过API
+      回传到HOYOPAY核算系统，通过数据验证、校对自动确认客人增值记录。
+- 运行环境
+    - ubuntu+python2.7+ selenium2   
+- 项目职责
+    - 全项目编码实现。
 
 #### [HOYOYO](https://www.hoyoyo.com)
 
