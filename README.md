@@ -51,14 +51,14 @@
 
 ## 项目经验
 
-#### [HOYOYO](http://www.hoyoyo.com)
+#### [HOYOYO](https://www.hoyoyo.com)
 
 - 项目介绍
     - HOYOYO，为B2C代购，主要为代购日本各大电商平台的产品。
 - 项目职责
     - PM，负责系统的整体架构计划以为部分功能开发，合理安排并引导小组开发工程师实现各自负责的功能开发。
 
-#### [New Vision] (http://www.nvsupplychain.com)
+#### [New Vision](https://www.nvsupplychain.com)
 
 - 项目介绍
     - NewVision，为B2B代购与集运系统，主要面向代购公司或专业代购人士。
